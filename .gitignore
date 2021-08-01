@@ -1,0 +1,13 @@
+#idea specific file
+.idea/
+
+#virtaul env
+venv/
+
+#python specific file
+__pycache__/
+*.pyc
+.pytest_cache/
+
+#config file(contain sensitive data)
+config.py
